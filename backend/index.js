@@ -27,7 +27,7 @@ app.use(cors({
 app.use("/api/auth", authRoutes);
 
 if (process.env.NODE_ENV === "production") {
-    const frontendPath = path.join(__dirname, "frontend", "dist");
+    const frontendPath = path.join(__dirname, "..", "frontend", "dist"); // Adjust path for Render
 
     app.use(express.static(frontendPath));
 
@@ -35,6 +35,7 @@ if (process.env.NODE_ENV === "production") {
         res.sendFile(path.resolve(frontendPath, "index.html"));
     });
 }
+
 
 
 app.get('/', (req, res) => {
