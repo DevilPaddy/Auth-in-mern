@@ -28,16 +28,19 @@ A **modern authentication system** with email-based verification and password re
 ## 📸 Project Preview  
 
 🔹 **Login Page**  
-![Login Page](![image](https://github.com/user-attachments/assets/b856d37e-ac27-416b-8634-29c1e83ba62c)
-)  
+![image](https://github.com/user-attachments/assets/9d4f0b65-eec0-42bd-b6cb-14edf320d072)
 
-🔹 **Email Verification**  
-![create account](![Screenshot 2025-03-15 181831](https://github.com/user-attachments/assets/016e0d52-466a-47c6-8ed3-b5309a5714a0)
-)  
+
+🔹 **Create Account**  
+![image](https://github.com/user-attachments/assets/94167428-f367-4a58-87a5-24725731a720)
+  
 
 🔹 **Password Reset**  
-![Password Reset](![Screenshot 2025-03-15 181851](https://github.com/user-attachments/assets/0fb7db9b-c000-4abf-9961-cba1d5b8d7d8)
-)  
+![image](https://github.com/user-attachments/assets/c233c2f8-6715-444f-a3bb-a97bfda089c5)
+ 
+
+🔹 **Welcome Mail**  
+![image](https://github.com/user-attachments/assets/b48a2ef3-952b-4f2d-b116-a04fa5d2e0b6)
 
 ---
 
